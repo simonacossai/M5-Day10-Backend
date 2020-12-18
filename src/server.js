@@ -12,9 +12,23 @@ const {join} = require("path")
 const publicFolderPath = join(__dirname, "../public");
 const server = express()
 server.use(express.static(publicFolderPath));
-server.use(cors())
+const whiteList =
+  process.env.NODE_ENV === "production"
+    ? [process.env.FE_URL_PROD]
+    : [process.env.FE_URL_DEV]
 
-const port = 3001
+const corsOptions = {
+  origin: function (origin, callback) {
+    if (whiteList.indexOf(origin) !== -1) {
+      callback(null, true)
+    } else {
+      callback(new Error("NOT ALLOWED - CORS ISSUES"))
+    }
+  },
+}
+server.use(cors(corsOptions)) 
+
+const port = process.env.PORT || 3001
 
 server.use(express.json())
 server.use("/movies", moviesRouter)
