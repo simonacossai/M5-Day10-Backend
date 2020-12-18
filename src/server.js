@@ -22,7 +22,7 @@ const corsOptions = {
     if (whiteList.indexOf(origin) !== -1) {
       callback(null, true)
     } else {
-      callback(new Error("NOT ALLOWED - CORS ISSUES"))
+      callback(new Error("UNAUTHORIZED- CORS ISSUES"))
     }
   },
 }
