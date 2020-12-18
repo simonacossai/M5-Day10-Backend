@@ -1,0 +1,209 @@
+[
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "category": "fantasy",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5MzcwOTg4MF5BMl5BanBnXkFtZTgwOTQwMzQxMDE@._V1_SX300.jpg",
+        "imdbID": "36kvth4kkiu2ulyb",
+        "createdAt": "2020-12-18T09:35:36.610Z",
+        "updatedAt": "2020-12-18T09:35:36.610Z",
+        "reviews": [
+            {
+                "comment": "bleah",
+                "rate": 1,
+                "_id": "36kvth5gkiu31mzu",
+                "elementId": "36kvth4kkiu2ulyb",
+                "createdAt": "2020-12-18T09:41:04.553Z"
+            }
+        ],
+        "image": "http://localhost:3001/img/movies/Cattura.PNG"
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "title": "Titanic",
+        "Type": "movie",
+        "Year": "1997",
+        "imdbID": "tt0120338",
+        "category": "romance",
+        "createdAt": "2020-12-18T10:45:21.838Z",
+        "updatedAt": "2020-12-18T10:45:21.838Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxMjQ1MjA5Ml5BMl5BanBnXkFtZTcwNjIzNjg1Mw@@._V1_SX300.jpg",
+        "title": "Titanic II",
+        "Type": "movie",
+        "Year": "1997",
+        "imdbID": "tt1640571",
+        "category": "romance",
+        "createdAt": "2020-12-18T10:46:13.677Z",
+        "updatedAt": "2020-12-18T10:46:13.677Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5MjcxODAwMV5BMl5BanBnXkFtZTcwMTk4OTMwMg@@._V1_SX300.jpg",
+        "title": "Titanic: The Legend Goes On...",
+        "Type": "movie",
+        "Year": "1999",
+        "imdbID": "tt0330994",
+        "category": "romance",
+        "createdAt": "2020-12-18T10:47:22.116Z",
+        "updatedAt": "2020-12-18T10:47:22.116Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNDU5MTk1MV5BMl5BanBnXkFtZTgwMDk5NDUyMTE@._V1_SX300.jpg",
+        "title": "The Legend of the Titanic",
+        "Type": "movie",
+        "Year": "1999",
+        "imdbID": "tt1623780",
+        "category": "romance",
+        "createdAt": "2020-12-18T10:48:32.624Z",
+        "updatedAt": "2020-12-18T10:48:32.624Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2MzU2NzEzN15BMl5BanBnXkFtZTcwMzI5NTU3Nw@@._V1_SX300.jpg",
+        "title": "Titanic: Blood and Steel",
+        "Type": "movie",
+        "Year": "2012",
+        "imdbID": "tt1695366",
+        "category": "romance",
+        "createdAt": "2020-12-18T10:49:27.862Z",
+        "updatedAt": "2020-12-18T10:49:27.862Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWUzNDJjMDUtNGEzMi00YThlLTlkMmEtNjVlOGQwOWM3MjM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "title": "Superman II",
+        "Type": "movie",
+        "Year": "1980",
+        "imdbID": "tt0081573",
+        "category": "fantasy",
+        "createdAt": "2020-12-18T10:50:56.170Z",
+        "updatedAt": "2020-12-18T10:50:56.170Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+        "title": "Superman",
+        "Type": "movie",
+        "Year": "1978",
+        "imdbID": "tt0078346",
+        "category": "fantasy",
+        "createdAt": "2020-12-18T10:51:43.043Z",
+        "updatedAt": "2020-12-18T10:51:43.043Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+        "title": "Superman Returns",
+        "Type": "movie",
+        "Year": "2006",
+        "imdbID": "tt0348150",
+        "category": "fantasy",
+        "createdAt": "2020-12-18T10:52:49.228Z",
+        "updatedAt": "2020-12-18T10:52:49.228Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+        "title": "Lois & Clark: The New Adventures of Superman",
+        "Type": "serie",
+        "Year": "1993–1997",
+        "imdbID": "tt0106057",
+        "category": "fantasy",
+        "createdAt": "2020-12-18T10:54:05.854Z",
+        "updatedAt": "2020-12-18T10:54:05.854Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "Type": "movie",
+        "Year": "2002",
+        "imdbID": "tt0295297",
+        "category": "fantasy",
+        "createdAt": "2020-12-18T10:56:04.116Z",
+        "updatedAt": "2020-12-18T10:56:04.116Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "Type": "movie",
+        "Year": "2004",
+        "imdbID": "tt0304141",
+        "category": "fantasy",
+        "createdAt": "2020-12-18T10:56:54.798Z",
+        "updatedAt": "2020-12-18T10:56:54.798Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "title": "The Exorcist",
+        "Type": "movie",
+        "Year": "1973",
+        "imdbID": "tt0070047",
+        "category": "horror",
+        "createdAt": "2020-12-18T10:58:25.646Z",
+        "updatedAt": "2020-12-18T10:58:25.646Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ2NmY5NmUtNWJiNS00ZjZmLTllMjQtNzU3YWZlM2E2MmJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "title": "Exorcist II: The Heretic",
+        "Type": "movie",
+        "Year": "1977",
+        "imdbID": "tt0076009",
+        "category": "horror",
+        "createdAt": "2020-12-18T10:59:12.976Z",
+        "updatedAt": "2020-12-18T10:59:12.976Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTQwZmQyYzEtODk5ZC00OTY3LWExMjAtYzRjNWFhNGM3MzBlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+        "title": "Annabelle",
+        "Type": "movie",
+        "Year": "2002",
+        "imdbID": "tt3322940",
+        "category": "horror",
+        "createdAt": "2020-12-18T11:00:58.291Z",
+        "updatedAt": "2020-12-18T11:00:58.291Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjdkMjg2NGQtYmRmYS00ZGQyLTk5MGQtMWQxZDdlY2U0MzZhXkEyXkFqcGdeQXVyNDExODQzNDA@._V1_SX300.jpg",
+        "title": "Annabelle Serpentine Dance",
+        "Type": "movie",
+        "Year": "1895",
+        "imdbID": "tt0154152",
+        "category": "horror",
+        "createdAt": "2020-12-18T11:01:58.742Z",
+        "updatedAt": "2020-12-18T11:01:58.742Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxODg1Nzc3NF5BMl5BanBnXkFtZTcwMjM0MjEzMw@@._V1_SX300.jpg",
+        "title": "The Grudge",
+        "Type": "movie",
+        "Year": "1895",
+        "imdbID": "tt0391198",
+        "category": "horror",
+        "createdAt": "2020-12-18T11:03:15.000Z",
+        "updatedAt": "2020-12-18T11:03:15.000Z",
+        "reviews": []
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGU4MThiYjItMDliMC00YWM4LTljZTEtNTg0YzdiMmE2MjM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "title": "The Grudge 3",
+        "Type": "movie",
+        "Year": "1990",
+        "imdbID": "tt1053859",
+        "category": "horror",
+        "createdAt": "2020-12-18T11:03:57.338Z",
+        "updatedAt": "2020-12-18T11:03:57.338Z",
+        "reviews": []
+    }
+]
